@@ -6,7 +6,7 @@ from utils.functions import preprocess, sentiment_analysis, map_sentiment_score_
 def render_home(model, tokenizer):
     st.title("Movie Review App")
     st.write("Welcome to our Movie Review App powered by the state-of-the-art RoBERTa and TinyBERT models with an impressive accuracy score of 0.93 and 0.83 respectively. Get ready to dive into the world of cinema and discover the sentiments behind your favorite movies. Whether it's a thrilling 9 or a heartwarming 3, our app not only predicts the sentiment but also rates the movie on a scale of 1 to 10. Express your thoughts, press 'Analyze,' and uncover the emotional depth of your movie review")
-    st.image("Assets/movie review.png", caption="", use_column_width=True)
+    st.image("Assets/movie_review.png", caption="", use_column_width=True)
     
     # Create a list to store comments
     comments = []
