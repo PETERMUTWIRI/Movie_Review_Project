@@ -42,7 +42,7 @@ To set up and run the project, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd movie-sentiment-analysis
+   cd Movie_Review_project
 ```
 
 3. Create a virtual environment (optional but recommended)
@@ -67,10 +67,10 @@ To set up and run the project, follow these steps:
    pip install -r requirements.txt
    ```
 6. Explore the Jupyter notebooks for data analysis, model training, and experimentation.
-7. Run the Gradio app for real-time sentiment analysis:
+7. Run the Streamlit app for real-time sentiment analysis:
 
    ```bash
-   python app.py
+   Streamlit run app.py
    ```
 ## Acknowledgement 🥇
 
@@ -81,3 +81,4 @@ I would like to express my gratitude to the [Azubi Africa Data Analyst Program](
 This project is open-source and available under the [MIT License](LICENSE).
 
 Feel free to reach out to us with any questions or feedback!
+[Email](mutpeet@gmail.com)
