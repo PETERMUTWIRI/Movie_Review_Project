@@ -11,7 +11,10 @@ This project serves as the culmination of a 9-month Data Analytics program with 
 ## Preview 👁️
 Here is a preview showcasing the project's interface:
 
-![Alt Text](UI_Assets/movie_review _screenshort.png)
+<div style="flex: 33.33%; text-align: center;">
+        <p>Middle</p>
+        <img src="UI_Assets/movie_review _screenshort.png" alt="Middle" width="90%"/>
+    </div>
 
 
 
