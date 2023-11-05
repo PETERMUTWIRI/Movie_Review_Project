@@ -11,7 +11,8 @@ This project serves as the culmination of a 9-month Data Analytics program with 
 ## Preview 👁️
 Here is a preview showcasing the project's interface:
 
-![Prev](App/Assets/movie_review_screenshort.png)
+![Alt Text](UI_Assets/movie_review _screenshort.png)
+
 
 
 👉 The Streamlit App is available for interaction at this URL: [Insert URL Here]
