@@ -11,7 +11,7 @@ This project serves as the culmination of a 9-month Data Analytics program with 
 ## Preview 👁️
 Here is a preview showcasing the project's interface:
 
-![Alt Text](App/Assets/movie_review_screenshort.png)
+![App_UI](App/Assets/movie_review _screenshort.png)
 
 
 
